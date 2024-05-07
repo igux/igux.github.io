@@ -2,3 +2,5 @@ site_name: My site
 site_url: https://igux.github.io
 theme:
   name: material
+  palette:
+    primary: indigo
