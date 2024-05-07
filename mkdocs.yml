@@ -3,4 +3,4 @@ site_url: https://igux.github.io
 theme:
   name: material
   palette:
-    primary: indigo
+    primary: light green
